@@ -3,7 +3,7 @@
 # Aufgabe 1: U-I-Kennlinien
 
 # Drehzahl D [min-1]	Spannung U [V]	Stromstärke I [mA]
-4791	3.74	4.1
+4791	3,74	4,1
 4678	3.54	10.5
 4537	3.33	20.2
 4422	3.13	28.4
